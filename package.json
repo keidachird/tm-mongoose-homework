@@ -1,0 +1,29 @@
+{
+  "name": "tm-mongoose-homework",
+  "version": "1.0.0",
+  "description": "### Installation",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keidachird/tm-mongoose-homework.git"
+  },
+  "author": "Denys Turchyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keidachird/tm-mongoose-homework/issues"
+  },
+  "homepage": "https://github.com/keidachird/tm-mongoose-homework#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
